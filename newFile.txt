@@ -1,3 +1,4 @@
 this is a test.
 test git.
 Git is a tool.
+distributed under GPL.
